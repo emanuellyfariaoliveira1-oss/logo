@@ -1,3 +1,5 @@
 <h1>Logo do site </h1>
 
-blob:https://gemini.google.com/07a78d9d-9996-4b26-870e-e3932c97277a
+
+<img width="1086" height="992" alt="image" src="https://github.com/user-attachments/assets/b1abcc8f-3377-40cf-918e-a2c14139b105" />
+
